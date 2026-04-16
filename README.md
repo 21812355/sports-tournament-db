@@ -20,7 +20,7 @@ frontend and PostgreSQL (Supabase) cloud database.
 - **Deployment:** Streamlit Cloud
 
 ## Live App
-[Click here to open the app]([https://your-app.streamlit.app](https://sports-tournament-db-xudthg3vzmpwavxvx4rw7u.streamlit.app/))
+[Click here to open the app](https://sports-tournament-db-xudthg3vzmpwavxvx4rw7u.streamlit.app/)
 
 ## Database
 - 7 tables with PKs, FKs, constraints
