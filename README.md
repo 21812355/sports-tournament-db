@@ -8,6 +8,7 @@ Cyprus International University
 | 22000972 | Abdullah Bin Shamla |
 | 21812355 | Abdulaziz Alamodi |
 | 22215256 | Ibrahim Almualm |
+ | 22207460 	| Mohammed Salmen| 
 
 ## Project Description
 A full-stack web application to manage sports tournaments including
